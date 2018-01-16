@@ -1,0 +1,112 @@
+array(4) {
+  ["c1"]=>
+  array(1) {
+    ["upd"]=>
+    array(3) {
+      ["aa"]=>
+      array(2) {
+        ["old"]=>
+        string(2) "AA"
+        ["new"]=>
+        string(2) "11"
+      }
+      ["ab"]=>
+      array(1) {
+        ["old"]=>
+        string(2) "AB"
+      }
+      ["af"]=>
+      array(1) {
+        ["new"]=>
+        string(2) "AE"
+      }
+    }
+  }
+  ["c2"]=>
+  array(1) {
+    ["upd"]=>
+    array(7) {
+      ["ba"]=>
+      array(1) {
+        ["old"]=>
+        string(2) "BA"
+      }
+      ["bb"]=>
+      array(1) {
+        ["old"]=>
+        string(2) "BB"
+      }
+      ["bc"]=>
+      array(1) {
+        ["old"]=>
+        string(2) "BC"
+      }
+      ["bd"]=>
+      array(1) {
+        ["old"]=>
+        string(2) "BD"
+      }
+      ["be"]=>
+      array(1) {
+        ["old"]=>
+        string(2) "BE"
+      }
+      ["bf"]=>
+      array(1) {
+        ["new"]=>
+        string(2) "26"
+      }
+      ["bg"]=>
+      array(1) {
+        ["new"]=>
+        array(3) {
+          ["bga"]=>
+          string(3) "221"
+          ["bgb"]=>
+          string(3) "222"
+          ["bgc"]=>
+          array(3) {
+            ["bgca"]=>
+            string(4) "2231"
+            ["bgcb"]=>
+            string(4) "2232"
+            ["bgcv"]=>
+            string(4) "2233"
+          }
+        }
+      }
+    }
+  }
+  ["c3"]=>
+  array(1) {
+    ["old"]=>
+    array(5) {
+      ["ca"]=>
+      string(2) "CA"
+      ["cb"]=>
+      string(2) "CB"
+      ["cc"]=>
+      string(2) "CC"
+      ["cd"]=>
+      string(2) "CD"
+      ["ce"]=>
+      string(2) "CE"
+    }
+  }
+  ["c4"]=>
+  array(1) {
+    ["new"]=>
+    array(5) {
+      ["da"]=>
+      string(2) "41"
+      ["db"]=>
+      string(2) "42"
+      ["dc"]=>
+      string(2) "43"
+      ["dd"]=>
+      string(2) "44"
+      ["de"]=>
+      string(2) "45"
+    }
+  }
+}
